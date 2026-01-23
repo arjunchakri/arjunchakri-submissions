@@ -1,25 +1,33 @@
 class MyQueue {
 
     Stack<Integer> stack;
+    Integer cachedTop;
 
     public MyQueue() {
         stack = new Stack();
+        cachedTop = null;
     }
     
     public void push(int x) {
+        if(stack.isEmpty()) {
+            cachedTop = x;
+        }
         stack.push(x);
     }
     
     public int pop() {
-        return popOrPeekHelper(true);
+        return popOrPeekHelper();
     }
     
     public int peek() {
-        return popOrPeekHelper(false);
+        if(stack.isEmpty()) {
+            return -1;
+        }
+        return cachedTop;
     }
 
-    private int popOrPeekHelper(boolean remove) {
-        if(remove && stack.isEmpty()) {
+    private int popOrPeekHelper() {
+        if(stack.isEmpty()) {
             return -1;
         }
 
@@ -28,8 +36,10 @@ class MyQueue {
             temp.push(stack.pop());
         }
         int queueTop = temp.peek();
-        if(remove) {
-            temp.pop();
+        temp.pop();
+        
+        if(!temp.isEmpty()) {
+            cachedTop = temp.peek();
         }
         while(!temp.isEmpty()) {
             stack.push(temp.pop());
