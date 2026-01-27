@@ -86,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1046-last-stone-weight) |
+## String
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0459-repeated-substring-pattern) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
