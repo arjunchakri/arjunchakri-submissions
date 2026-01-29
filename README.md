@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1470-shuffle-the-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## String
 |  |
 | ------- |
