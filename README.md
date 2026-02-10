@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0459-repeated-substring-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
