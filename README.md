@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0058-length-of-last-word) |
 | [0459-repeated-substring-pattern](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0482-license-key-formatting) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
