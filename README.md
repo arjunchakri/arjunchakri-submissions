@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0482-license-key-formatting) |
 ## String Matching
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
