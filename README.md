@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0238-product-of-array-except-self) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
