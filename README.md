@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1672-richest-customer-wealth](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
