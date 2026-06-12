@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0482-license-key-formatting) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
 | ------- |
