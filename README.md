@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2206-divide-array-into-equal-pairs](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1512-number-of-good-pairs) |
+| [2206-divide-array-into-equal-pairs](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Stack
 |  |
@@ -96,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1512-number-of-good-pairs) |
+| [2206-divide-array-into-equal-pairs](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0645-set-mismatch) |
+| [2206-divide-array-into-equal-pairs](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Queue
 |  |
 | ------- |
