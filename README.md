@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
