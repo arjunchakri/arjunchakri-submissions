@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1929-concatenation-of-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0482-license-key-formatting) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1528-shuffle-string](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
