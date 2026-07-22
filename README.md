@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1046-last-stone-weight) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/arjunchakri/arjunchakri-submissions/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
